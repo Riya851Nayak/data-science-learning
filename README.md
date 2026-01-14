@@ -7,3 +7,8 @@ Daily practice of Data Science with Pandas
 - models/ → future ML models
 ## 🎯 Learning Goal
 To become job-ready in Data Science by building projects using Python, Pandas, and Machine Learning.
+## 🛠 Skills Covered
+- Data Cleaning
+- Handling Missing Values
+- Sorting & GroupBy
+- Exploratory Data Analysis (EDA)
