@@ -12,3 +12,4 @@ To become job-ready in Data Science by building projects using Python, Pandas, a
 - Handling Missing Values
 - Sorting & GroupBy
 - Exploratory Data Analysis (EDA)
+- Data Visualization (Matplotlib)
