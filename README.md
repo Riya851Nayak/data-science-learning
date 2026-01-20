@@ -35,10 +35,13 @@ Build a machine learning model to predict students' writing scores based on acad
 ### Evaluation Metrics
 - Mean Squared Error (MSE): ~23.66
 - R² Score: ~0.90
+
 ### Visualization
 The scatter plot of **Actual vs Predicted Writing Score** shows that most points lie close to the diagonal line, indicating that the model predictions are very close to the actual values and the model performs well.
 ### Conclusion
-The model successfully learns the relationship between input features and writing scores and provides accurate predictions.
+1.The model successfully learns the relationship between input features and writing scores and provides accurate predictions.
+2.The model performs well as residuals are randomly distributed around zero.
+MAE value shows the average prediction error is low.
 
 
 ## 🛠 Tools Used
@@ -53,9 +56,12 @@ The model successfully learns the relationship between input features and writin
 - Sorting & GroupBy
 - Exploratory Data Analysis (EDA)
 - Data Visualization (Matplotlib)
+- Added MAE metric
+ -Performed residual analysis
 
 ## 🚀 Goal
 To build a strong foundation in **Data Science** through daily hands-on practice.
 
 ---
 ✨ Learning step by step, one day at a time.
+
