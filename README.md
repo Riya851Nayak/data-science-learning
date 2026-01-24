@@ -36,6 +36,13 @@ Build a machine learning model to predict students' writing scores based on acad
 - Mean Squared Error (MSE): ~23.66
 - R² Score: ~0.90
 
+  ## Day 11 – Decision Tree Regression
+Objective: Predict writing score
+Algorithm: Decision Tree Regressor
+Features used: math score, reading score
+Evaluation metrics: MAE, R² Score
+Overfitting handled using max_depth
+
 ### Visualization
 The scatter plot of **Actual vs Predicted Writing Score** shows that most points lie close to the diagonal line, indicating that the model predictions are very close to the actual values and the model performs well.
 ### Conclusion
@@ -64,4 +71,5 @@ To build a strong foundation in **Data Science** through daily hands-on practice
 
 ---
 ✨ Learning step by step, one day at a time.
+
 
