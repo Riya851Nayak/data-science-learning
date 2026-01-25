@@ -43,6 +43,13 @@ Build a machine learning model to predict students' writing scores based on acad
 - Evaluation metrics: MAE, R² Score
 - Overfitting handled using max_depth
 
+  ## Day 12 – Random Forest Regression
+- Implemented Random Forest Regressor
+- Compared performance using MAE and R2 Score
+- Analyzed feature importance
+- Observed reading score as the most influential feature
+
+
 ### Visualization
 The scatter plot of **Actual vs Predicted Writing Score** shows that most points lie close to the diagonal line, indicating that the model predictions are very close to the actual values and the model performs well.
 ### Conclusion
@@ -71,6 +78,7 @@ To build a strong foundation in **Data Science** through daily hands-on practice
 
 ---
 ✨ Learning step by step, one day at a time.
+
 
 
 
