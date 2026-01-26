@@ -49,11 +49,18 @@ Build a machine learning model to predict students' writing scores based on acad
 - Analyzed feature importance
 - Observed reading score as the most influential feature
 
-**Day 13 – Model Evaluation & Comparison**
+###Day 13 – Model Evaluation & Comparison**
 - Train R² > Test R²
 - Decision Tree:more overfit hota hai
 - Random Forest:stable & accurate
 - Random Forest > Decision Tree
+
+ ### Day 14 – Hyperparameter Tuning
+- Applied GridSearchCV on Random Forest Regressor
+- Tuned parameters: n_estimators, max_depth, min_samples_split, min_samples_leaf
+- Model performance improved after tuning
+- MAE decreased and R² score increased
+- Overfitting reduced and generalization improved
 
 ### Visualization
 The scatter plot of **Actual vs Predicted Writing Score** shows that most points lie close to the diagonal line, indicating that the model predictions are very close to the actual values and the model performs well.
@@ -83,6 +90,7 @@ To build a strong foundation in **Data Science** through daily hands-on practice
 
 ---
 ✨ Learning step by step, one day at a time.
+
 
 
 
