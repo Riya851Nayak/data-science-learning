@@ -80,27 +80,50 @@ The scatter plot of **Actual vs Predicted Writing Score** shows that most points
 2.The model performs well as residuals are randomly distributed around zero.
 MAE value shows the average prediction error is low.
 
+## 📊 Dataset
+- Source: Student Performance Dataset
+- Features: gender, parental education, reading score, math score
+- Target Variable: writing score
+
 
 ## 🛠 Tools Used
 - Python
 - Pandas
 - Jupyter Notebook
 - GitHub
+- Matplotlib
+- Seaborn
+- Numpy
+- Scikit learn
 
 ## Skill Covering
-- Data Cleaning
-- Handling Missing Values
-- Sorting & GroupBy
+- Data Cleaning & Preprocessing
 - Exploratory Data Analysis (EDA)
-- Data Visualization (Matplotlib)
-- Added MAE metric
- -Performed residual analysis
+- Feature Selection
+- Machine Learning Model Training
+- Regression Models
+- Model Evaluation (MAE, R²)
+- Overfitting Detection
+- Hyperparameter Tuning
+
+  ## 🤖 Model Summary
+- Algorithm: Random Forest Regressor
+- MAE: Low (good prediction accuracy)
+- Residuals: Randomly distributed
+- Overfitting: No (train & test performance similar)
+
+
 
 ## 🚀 Goal
 To build a strong foundation in **Data Science** through daily hands-on practice.
 
+## 🚀 Future Improvements
+- Try XGBoost and Gradient Boosting
+- Deploy model using Streamlit
+
 ---
 ✨ Learning step by step, one day at a time.
+
 
 
 
