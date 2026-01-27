@@ -27,7 +27,7 @@ This repository contains my daily practice and learning of **Data Science using 
 - Predicted writing score using math & reading scores
 - Evaluated model using Mean Absolute Error (MAE)
 
-## Day 08 – Student Performance Prediction (ML)
+## Day 09 0r 10 – Student Performance Prediction (ML)
 ### Objective
 Build a machine learning model to predict students' writing scores based on academic and demographic features.
 ### Model Used
@@ -62,6 +62,18 @@ Build a machine learning model to predict students' writing scores based on acad
 - MAE decreased and R² score increased
 - Overfitting reduced and generalization improved
 
+ ### Day 15 – End-to-End Machine Learning Project
+- Dataset: Student Performance
+- Target: Writing Score Prediction
+- Model Used: Random Forest Regressor
+- Evaluation Metrics: MAE, R² Score
+**Results
+MAE ≈ 4.25
+R² Score ≈ 0.88
+**Key Insight
+Reading score is the most important feature.
+Model generalizes well, no major overfitting
+
 ### Visualization
 The scatter plot of **Actual vs Predicted Writing Score** shows that most points lie close to the diagonal line, indicating that the model predictions are very close to the actual values and the model performs well.
 ### Conclusion
@@ -90,6 +102,7 @@ To build a strong foundation in **Data Science** through daily hands-on practice
 
 ---
 ✨ Learning step by step, one day at a time.
+
 
 
 
