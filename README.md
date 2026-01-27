@@ -1,6 +1,5 @@
-- Pandas: Sorting and GroupBy operations
-# Data Science Learning
 
+# Data Science Learning
 This repository contains my daily practice and learning of **Data Science using Pandas**.
 
 ## 📅 Day-wise Progress
@@ -102,6 +101,7 @@ To build a strong foundation in **Data Science** through daily hands-on practice
 
 ---
 ✨ Learning step by step, one day at a time.
+
 
 
 
