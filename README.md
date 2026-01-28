@@ -48,7 +48,7 @@ Build a machine learning model to predict students' writing scores based on acad
 - Analyzed feature importance
 - Observed reading score as the most influential feature
 
-###Day 13 – Model Evaluation & Comparison**
+### Day 13 – Model Evaluation & Comparison**
 - Train R² > Test R²
 - Decision Tree:more overfit hota hai
 - Random Forest:stable & accurate
@@ -124,6 +124,7 @@ To build a strong foundation in **Data Science** through daily hands-on practice
 
 ---
 ✨ Learning step by step, one day at a time.
+
 
 
 
