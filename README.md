@@ -66,12 +66,12 @@ Build a machine learning model to predict students' writing scores based on acad
 - Target: Writing Score Prediction
 - Model Used: Random Forest Regressor
 - Evaluation Metrics: MAE, R² Score
-**Results
-MAE ≈ 4.25
-R² Score ≈ 0.88
-**Key Insight
+- Key Insight
 Reading score is the most important feature.
 Model generalizes well, no major overfitting
+
+### Day 16: Model Saving & Loading
+- Objective: To save a trained machine learning model and reuse it for future predictions without retraining.
 
 ### Visualization
 The scatter plot of **Actual vs Predicted Writing Score** shows that most points lie close to the diagonal line, indicating that the model predictions are very close to the actual values and the model performs well.
@@ -95,6 +95,7 @@ MAE value shows the average prediction error is low.
 - Seaborn
 - Numpy
 - Scikit learn
+- Joblib
 
 ## Skill Covering
 - Data Cleaning & Preprocessing
@@ -123,6 +124,7 @@ To build a strong foundation in **Data Science** through daily hands-on practice
 
 ---
 ✨ Learning step by step, one day at a time.
+
 
 
 
