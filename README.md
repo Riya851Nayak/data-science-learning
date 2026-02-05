@@ -73,12 +73,34 @@ Model generalizes well, no major overfitting
 ### Day 16: Model Saving & Loading
 - Objective: To save a trained machine learning model and reuse it for future predictions without retraining.
 
+# Diabetes Prediction using Decision Tree
+
+## Overview
+This project predicts whether a person has diabetes using machine learning.
+
+## Day 22 – Model Building
+- Loaded and explored the dataset
+- Split data into training and testing sets
+- Trained Decision Tree classifier
+- Evaluated model using accuracy, confusion matrix, and classification report
+
+## Day 23 – Model Improvement & Interpretation
+- Tuned Decision Tree using GridSearchCV
+- Selected best model based on performance
+- Performed feature importance analysis
+
+## Key Findings
+- Glucose is the most important feature
+- BMI is the second most influential feature
+- Tuned Decision Tree gave better and balanced results
+
 ### Visualization
 The scatter plot of **Actual vs Predicted Writing Score** shows that most points lie close to the diagonal line, indicating that the model predictions are very close to the actual values and the model performs well.
 ### Conclusion
 1.The model successfully learns the relationship between input features and writing scores and provides accurate predictions.
 2.The model performs well as residuals are randomly distributed around zero.
 MAE value shows the average prediction error is low.
+3.The final Decision Tree model provides good accuracy and interpretability, making it suitable for healthcare prediction tasks.
 
 ## 📊 Dataset
 - Source: Student Performance Dataset
@@ -124,6 +146,7 @@ To build a strong foundation in **Data Science** through daily hands-on practice
 
 ---
 ✨ Learning step by step, one day at a time.
+
 
 
 
